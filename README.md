@@ -1,2 +1,2 @@
 # fastmoments
- Faster Moments
+Faster calculation of Moments in R

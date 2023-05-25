@@ -1,5 +1,6 @@
 # fastmoments
 Up to 100x faster calculation of Mean, Variance, Skewness and Kurtosis in R.
 
-Based on: [FORMULAS FOR THE COMPUTATION OF HIGHER-ORDER
-CENTRAL MOMENTS](https://www.osti.gov/servlets/purl/1426900) 
+Based on: [Formulas for Robust, One-Pass Parallel
+Computation of Covariances and
+Arbitrary-Order Statistical Moments](https://www.osti.gov/servlets/purl/1028931) 
